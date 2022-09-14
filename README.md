@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thehetviparekh
-- 👀 I’m interested in data anlytics
+- 👀 I’m interested in data analytics
 - 🌱 I’m currently learning data science and machine learning
 - 💞️ I’m looking to collaborate on data science projects
 - 📫 How to reach me hetviparekh2910@gmail.com
