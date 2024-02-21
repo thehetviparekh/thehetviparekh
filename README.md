@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thehetviparekh
-- 👀 I’m interested in data analytics
-- 🌱 I’m currently learning data science and machine learning
-- 💞️ I’m looking to collaborate on data science projects
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning next.js
+- 💞️ I’m looking to collaborate on web defelopment projects
 - 📫 How to reach me hetviparekh2910@gmail.com
 
 <!---
