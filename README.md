@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thehetviparekh
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning next.js
-- 💞️ I’m looking to collaborate on web defelopment projects
+- 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me hetviparekh2910@gmail.com
 
 <!---
